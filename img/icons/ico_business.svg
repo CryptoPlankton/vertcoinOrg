@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="43px" viewBox="0 0 39 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11" transform="translate(1.000000, 1.000000)">
+            <path d="M3.76373304,11.6444413 L3.50820836,29.4505025 L18.6289986,38.4146206 L33.5041042,29.111993 L33.5041042,11.6359717 L18.948623,2.58542903 L3.76373304,11.6444413 Z M18.9593897,1.41457097 L34.5041042,11.0802151 L34.5041042,29.666061 L18.6428964,39.5853794 L2.5,30.015322 L2.77184851,11.0717456 L18.9593897,1.41457097 Z" id="Path-2" fill="#058657" fill-rule="nonzero" transform="translate(18.502052, 20.499975) scale(-1, 1) translate(-18.502052, -20.499975) "></path>
+            <path d="M18.8861999,39 L18.8861999,24" id="Path-9" stroke="#058657" transform="translate(18.500000, 31.500000) scale(-1, 1) translate(-18.500000, -31.500000) "></path>
+            <path d="M5.5,19.5 L17.5,12.5" id="Path-9-Copy" stroke="#058657" transform="translate(11.500000, 16.000000) scale(-1, 1) translate(-11.500000, -16.000000) "></path>
+            <path d="M31.5,19.5 L20,12.5" id="Path-9-Copy-2" stroke="#058657" transform="translate(25.500000, 16.000000) scale(-1, 1) translate(-25.500000, -16.000000) "></path>
+            <g id="Group" transform="translate(18.500000, 20.500000) scale(-1, 1) translate(-18.500000, -20.500000) " fill="#090C15">
+                <circle id="Oval" cx="19" cy="3" r="3"></circle>
+                <circle id="Oval-Copy" cx="34" cy="11" r="3"></circle>
+                <circle id="Oval-Copy-2" cx="19" cy="21" r="3"></circle>
+                <circle id="Oval-Copy-3" cx="3" cy="11" r="3"></circle>
+                <circle id="Oval-Copy-4" cx="3" cy="30" r="3"></circle>
+                <circle id="Oval-Copy-5" cx="19" cy="38" r="3"></circle>
+                <circle id="Oval-Copy-6" cx="34" cy="30" r="3"></circle>
+            </g>
+            <circle id="Oval" stroke="#058657" transform="translate(18.000000, 3.000000) scale(-1, 1) translate(-18.000000, -3.000000) " cx="18" cy="3" r="3"></circle>
+            <circle id="Oval-Copy" stroke="#058657" transform="translate(3.000000, 11.000000) scale(-1, 1) translate(-3.000000, -11.000000) " cx="3" cy="11" r="3"></circle>
+            <circle id="Oval-Copy-2" stroke="#058657" transform="translate(18.000000, 21.000000) scale(-1, 1) translate(-18.000000, -21.000000) " cx="18" cy="21" r="3"></circle>
+            <circle id="Oval-Copy-3" stroke="#058657" transform="translate(34.000000, 11.000000) scale(-1, 1) translate(-34.000000, -11.000000) " cx="34" cy="11" r="3"></circle>
+            <circle id="Oval-Copy-4" stroke="#058657" transform="translate(34.000000, 30.000000) scale(-1, 1) translate(-34.000000, -30.000000) " cx="34" cy="30" r="3"></circle>
+            <circle id="Oval-Copy-5" stroke="#058657" transform="translate(18.000000, 38.000000) scale(-1, 1) translate(-18.000000, -38.000000) " cx="18" cy="38" r="3"></circle>
+            <circle id="Oval-Copy-6" stroke="#058657" transform="translate(3.000000, 30.000000) scale(-1, 1) translate(-3.000000, -30.000000) " cx="3" cy="30" r="3"></circle>
+        </g>
+    </g>
+</svg>
